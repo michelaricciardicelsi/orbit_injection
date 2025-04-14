@@ -42,6 +42,26 @@ Both methods are compared in terms of performance, computational complexity, and
 
 ---
 
+## References 
+[1] A.J. Calise and M.S.K. Leung, Optimal Guidance Law
+Development for an Advanced Launch System, NASA Report,
+1995.
+[2] J.M. Longuski, J.J. Guzmàn, J.E. Prussing, Optimal
+Control With Aerospace Applications, Springer, 2014.
+[3] S.D. Ilcev, Global Mobile Satellite Communications
+Theory for Maritime, Land and Aeronautical Applications,
+Springer, 2017.
+[4] B. Etkin, Dynamics of Atmospheric Flight, Dover
+Publications, 1972.
+[5] L. Mangiacasale, Fondamenti di Automatica e Controllo
+dei Veicoli Aerospaziali, ARACNE, 2008.
+[6] A.E. Bryson, and Y.C. Ho, Applied Optimal Control,
+CRC Press, 1975.
+[7] A.E. Bryson, Dynamic Optimization, Addison Wesley,
+1999.
+[8] N.K. Poulsen, Dynamic Optimization, 2012.
+---
+
 ## 📂 Project Structure
 
 ```bash
