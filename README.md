@@ -72,7 +72,7 @@ CRC Press, 1975.
 ├── constraints.m                    # System dynamics and boundary constraints
 ├── orbequa3d.m                      # Differential equations for satellite motion
 ├── README.md                        # Project description and details
-└── Orbit Injection_RicciardiCelsi.pdf  # Detailed project report
+└── Orbit Injection.pdf              # Detailed project report
 
 
 
